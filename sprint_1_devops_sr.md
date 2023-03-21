@@ -1,6 +1,6 @@
 # Devops and Site Reliability
 
-Hello students, and welcome to the DevOps and Site Reliability Engineering project. In this part of the project, you
+Hello, and welcome to the DevOps and Site Reliability Engineering project. In this part of the project, you
 will have the
 opportunity to learn and apply the principles of DevOps and Site Reliability Engineering. These practices are essential
 for ensuring that websites run smoothly and are always available to users.
