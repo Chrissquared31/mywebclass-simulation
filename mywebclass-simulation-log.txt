@@ -1,0 +1,316 @@
+Commit log for mywebclass-simulation
+
+2023-03-21 16:12:48 - D'Angelo Morales: Removing Dash in title
+2023-03-21 16:12:06 - D'Angelo Morales: Testing workflow
+2023-03-21 16:10:31 - Chrissquared31: updated workflows to include docker information
+2023-03-21 16:00:20 - Chrissquared31: testing Docker
+2023-03-10 21:52:50 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:48:15 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:44:39 - kaw393939: Delete create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 21:44:17 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:39:28 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:36:53 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:34:24 - kaw393939: Update create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 21:33:44 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:28:56 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:26:02 - kaw393939: Update create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 21:25:43 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:20:56 - kaw393939: Update create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 21:17:09 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:13:38 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:09:52 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 21:03:56 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:57:53 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:36:07 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:35:52 - kaw393939: Update create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 20:31:35 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:28:54 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:24:10 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 20:03:51 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 19:53:11 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 19:49:53 - kaw393939: Update playwright_test_record_video.yml
+2023-03-10 19:48:53 - kaw393939: Update and rename script.js to create_pdf_from_lighthouseJsonOutput.js
+2023-03-10 19:46:06 - kaw393939: Create script.js
+2023-03-10 18:38:40 - kaw393939: updated with lighthouse
+2023-03-09 20:08:04 - kaw393939: Rename test_and_quality.yml to playwright_test_record_video.yml
+2023-03-09 01:53:37 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:48:33 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:43:40 - kaw393939: Update playwright.config.js
+2023-03-09 01:41:51 - kaw393939: Update playwright.config.js
+2023-03-09 01:38:25 - kaw393939: Update playwright.config.js
+2023-03-09 01:35:25 - kaw393939: Update playwright.config.js
+2023-03-09 01:33:18 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:30:51 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:27:47 - kaw393939: Update playwright.config.js
+2023-03-09 01:24:50 - kaw393939: Update playwright.config.js
+2023-03-09 01:09:08 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:07:47 - kaw393939: Update test.yml
+2023-03-09 01:04:30 - kaw393939: Update test_and_quality.yml
+2023-03-09 01:00:19 - kaw393939: playwright
+2023-03-08 17:33:03 - kaw393939: Update sprint_1_orientation.md
+2023-03-08 17:32:24 - kaw393939: Update sprint_1_orientation.md
+2023-03-07 22:07:29 - kaw393939: Update readme.md
+2023-03-07 19:08:38 - kaw393939: Update readme.md
+2023-03-07 19:07:18 - kaw393939: Update issue templates
+2023-03-07 19:02:41 - kaw393939: Update readme.md
+2023-03-07 18:44:03 - kaw393939: Update readme.md
+2023-03-07 18:42:36 - kaw393939: Update readme.md
+2023-03-07 18:36:04 - kaw393939: Update sprint_1.md
+2023-03-07 18:33:41 - kaw393939: Update readme.md
+2023-03-07 17:55:26 - kaw393939: Update readme.md
+2023-03-07 17:43:35 - kaw393939: Update readme.md
+2023-03-07 11:42:21 - kaw393939: project 1 docs
+2023-03-07 11:32:11 - kaw393939: project 1 docs
+2023-03-07 11:30:40 - kaw393939: Merge branch 'master' of github.com:NJIT-WIS/mywebclass-simulation
+2023-03-07 11:30:21 - kaw393939: project 1 docs
+2023-03-07 11:18:00 - kaw393939: project 1 documentation
+2023-03-06 22:17:22 - kaw393939: Update static.yml
+2023-03-06 22:12:31 - kaw393939: Create static.yml
+2023-03-03 23:43:11 - kaw393939: removing dev server from prod
+2023-03-03 23:41:15 - kaw393939: added google analytics
+2023-03-03 23:11:29 - kaw393939: fixed a bunch of stuff
+2023-02-28 23:04:10 - kaw393939: fixing the missing javascript
+2023-02-28 12:14:51 - kaw393939: trying to do a build and test fast
+2023-02-28 12:13:57 - kaw393939: trying to do a build and test fast
+2023-02-28 12:11:34 - kaw393939: trying to do a build and test fast
+2023-02-28 12:10:08 - kaw393939: trying to do a build and test fast
+2023-02-28 12:07:07 - kaw393939: trying to do a build and test fast
+2023-02-28 12:02:47 - kaw393939: trying to do a build and test fast
+2023-02-28 11:58:28 - kaw393939: Revert "trying to do a build and test fast"
+
+This reverts commit df9083f51167c78d7676259d71a4d5e11b667ef3.
+2023-02-28 11:53:01 - kaw393939: trying to do a build and test fast
+2023-02-28 11:49:32 - kaw393939: trying to do a build and test fast
+2023-02-28 11:45:05 - kaw393939: trying to do a build and test fast
+2023-02-28 11:40:12 - kaw393939: trying to do a build and test fast
+2023-02-28 11:37:09 - kaw393939: trying to do a build and test fast
+2023-02-28 11:33:22 - kaw393939: trying to do a build and test fast
+2023-02-28 11:30:37 - kaw393939: trying to do a build and test fast
+2023-02-28 11:27:56 - kaw393939: trying to do a build and test fast
+2023-02-28 11:27:03 - kaw393939: trying to do a build and test fast
+2023-02-28 11:25:13 - kaw393939: trying to do a build and test fast
+2023-02-28 11:22:15 - kaw393939: trying to do a build and test fast
+2023-02-28 11:21:16 - kaw393939: trying to do a build and test fast
+2023-02-28 11:11:04 - kaw393939: trying to do a build and test fast
+2023-02-28 11:08:19 - kaw393939: trying to do a build and test fast
+2023-02-28 11:06:38 - kaw393939: trying to do a build and test fast
+2023-02-28 11:03:55 - kaw393939: trying to do a build and test fast
+2023-02-28 11:03:01 - kaw393939: trying to do a build and test fast
+2023-02-28 11:02:04 - kaw393939: trying to do a build and test fast
+2023-02-28 11:00:44 - kaw393939: trying to do a build and test fast
+2023-02-28 10:58:00 - kaw393939: trying to do a build and test fast
+2023-02-28 10:41:07 - kaw393939: trying to fix deployment
+2023-02-28 09:34:33 - kaw393939: fixing site
+2023-02-28 09:23:11 - kaw393939: fixing site
+2023-02-28 09:20:32 - kaw393939: fixing site
+2023-02-28 09:15:21 - kaw393939: fixing site
+2023-02-28 09:04:13 - kaw393939: fixing site
+2023-02-28 09:03:18 - kaw393939: fixing site
+2023-02-28 08:53:22 - kaw393939: fixing site
+2023-02-28 08:36:32 - kaw393939: optimizing site
+2023-02-28 08:34:24 - kaw393939: optimizing site
+2023-02-28 08:29:12 - kaw393939: optimizing site
+2023-02-28 07:16:53 - kaw393939: optimizing site
+2023-02-28 07:15:36 - kaw393939: optimizing site
+2023-02-28 07:14:07 - kaw393939: optimizing site
+2023-02-28 07:11:51 - kaw393939: optimizing site
+2023-02-28 07:06:08 - kaw393939: optimizing site
+2023-02-28 06:48:45 - kaw393939: optimizing site
+2023-02-28 06:43:59 - kaw393939: optimizing site
+2023-02-28 06:38:16 - kaw393939: optimizing site
+2023-02-28 06:36:57 - kaw393939: optimizing site
+2023-02-28 06:35:40 - kaw393939: optimizing site
+2023-02-28 06:31:53 - kaw393939: optimizing site
+2023-02-28 06:29:47 - kaw393939: optimizing site
+2023-02-28 06:28:21 - kaw393939: optimizing site
+2023-02-28 06:26:16 - kaw393939: optimizing site
+2023-02-28 06:24:16 - kaw393939: optimizing site
+2023-02-28 06:18:13 - kaw393939: optimizing site
+2023-02-28 06:12:14 - kaw393939: optimizing site
+2023-02-28 05:57:58 - kaw393939: optimizing site
+2023-02-28 05:52:29 - kaw393939: optimizing site
+2023-02-28 04:45:10 - kaw393939: added nginx
+2023-02-28 04:41:02 - kaw393939: optimizing deployment and removing unused things
+2023-02-28 03:39:54 - kaw393939: fixing github actions
+2023-02-28 03:38:14 - kaw393939: fixing github actions
+2023-02-28 03:37:04 - kaw393939: fixing github actions
+2023-02-28 03:33:54 - kaw393939: fixing github actions
+2023-02-28 03:30:23 - kaw393939: removing python for now
+2023-02-28 03:19:22 - kaw393939: fixing some issues
+2023-02-28 00:21:18 - kaw393939: fixing this so that it has a good content template
+2023-02-28 00:18:41 - kaw393939: fixing this so that it has a good content template
+2023-02-26 21:22:35 - kaw393939: fixing our story
+2023-02-26 20:45:08 - transcendReality: changedwebsiteherotext
+2023-02-26 18:22:10 - kaw393939: fixing some stuff and cleanup
+2023-02-26 18:07:57 - kaw393939: adding our story and fixing content page
+2023-02-26 04:24:06 - kaw393939: making a nicer homepage
+2023-02-26 03:28:51 - kaw393939: fixing google analytics
+2023-02-26 03:22:18 - kaw393939: added empty favicon
+2023-02-26 03:09:39 - kaw393939: fixing dev prod webpack
+2023-02-26 03:08:34 - kaw393939: removed hidden icons
+2023-02-26 02:59:04 - kaw393939: added google analytics by js code in main.js and removed it from the html
+2023-02-26 02:46:34 - kaw393939: fixing icons on production
+2023-02-26 02:35:06 - kaw393939: fixing bootrap on production
+2023-02-26 02:28:52 - kaw393939: fixing adding node matrix for version and changing the docker repo
+2023-02-26 02:18:52 - kaw393939: fixing adding node matrix for version and changing the docker repo
+2023-02-26 02:12:34 - kaw393939: fixing github actions
+2023-02-26 02:06:42 - kaw393939: added privacy policy stuff
+2023-02-26 02:05:57 - kaw393939: improved workflow by running pytest and playwright in separate commands and added the if on success
+2023-02-26 02:03:39 - kaw393939: adding public_html to ignore
+2023-02-26 01:40:47 - kaw393939: setting up privacy policy and google analytics
+2023-02-24 02:34:33 - kaw393939: Merge branch 'master' of github.com:NJIT-WIS/mywebclass-real into development
+2023-02-21 18:08:42 - kaw393939: added prod and dev webpack configs
+2023-02-14 23:27:51 - kaw393939: Update readme.md
+2023-02-14 23:27:05 - kaw393939: Update readme.md
+2023-02-14 23:25:48 - kaw393939: Update readme.md
+2023-02-14 23:25:12 - kaw393939: Update readme.md
+2023-02-14 23:17:39 - kaw393939: changed the docker repo to practice
+2023-02-14 23:10:56 - kaw393939: Merge pull request #76 from kaw393939/master
+
+merge changes from practice
+2023-02-14 23:01:13 - kaw393939: Merge pull request #75 from kaw393939/12-create-a-page-to-list-article
+
+added installation page and title
+2023-02-14 22:14:59 - kaw393939: Merge pull request #20 from kaw393939/15-make-a-page-for-install-instructions-linked-to-the-main-menu-of-the-site
+
+added other files closes #15
+2023-02-14 22:12:19 - kaw393939: added other files
+2023-02-14 22:05:10 - kaw393939: added installation page and title
+2023-02-14 21:13:15 - kaw393939: Merge pull request #67 from kaw393939/master
+
+Merging updates from mywebclass-practice
+2023-02-14 20:42:20 - kaw393939: Merge pull request #13 from kaw393939/12-create-a-page-to-list-article closes #12
+
+added article and articles pages and tests for page titles closes #12
+2023-02-14 20:33:03 - kaw393939: added article and articles pages and tests for page titles
+2023-02-14 19:22:26 - kaw393939: added the article page
+2023-02-14 19:08:37 - kaw393939: Update readme.md
+2023-02-14 19:06:54 - kaw393939: Merge pull request #63 from kaw393939/master
+
+Merge pull request #6 from kaw393939/5-create-project-installation-ho…
+2023-02-14 19:02:14 - kaw393939: Merge pull request #62 from kaw393939/5-create-project-installation-homepage
+
+5 create project installation homepage
+2023-02-14 19:00:34 - kaw393939: fixed a port conflic
+2023-02-14 17:52:10 - kaw393939: Merge pull request #6 from kaw393939/5-create-project-installation-homepage
+
+closes #5
+2023-02-14 17:48:26 - kaw393939: closes #5
+2023-02-14 03:59:02 - kaw393939: Merge pull request #56 from NJIT-WIS/development
+
+fix validator errors
+2023-02-14 03:57:03 - kaw393939: fix validator errors
+2023-02-14 03:51:01 - kaw393939: Merge pull request #55 from NJIT-WIS/development
+
+fixing utf 8
+2023-02-14 03:50:28 - kaw393939: fixing utf 8
+2023-02-14 03:41:07 - kaw393939: Merge pull request #53 from NJIT-WIS/development
+
+fixing docker compose naming conflict and port conflict
+2023-02-14 03:40:07 - kaw393939: fixing docker compose naming conflict and port conflict
+2023-02-14 03:33:19 - kaw393939: Merge pull request #52 from NJIT-WIS/development
+
+added development branch local version on port 8080
+2023-02-14 03:28:09 - kaw393939: added development branch local version on port 8080
+2023-02-14 01:57:39 - kaw393939: fixing webback for a favicon
+2023-02-14 00:50:21 - kaw393939: fixing w3c validation errors
+2023-02-14 00:44:57 - kaw393939: some fixes
+2023-02-14 00:36:10 - kaw393939: added js standard for linting
+2023-02-14 00:15:53 - kaw393939: Update publish.yml
+2023-02-14 00:13:32 - kaw393939: fixing github action
+2023-02-13 23:55:28 - kaw393939: removed public_html
+2023-02-13 23:54:33 - kaw393939: Merge branch 'master' of github.com:NJIT-WIS/mywebclass
+2023-02-13 23:47:59 - kaw393939: ignoring pycache
+2023-02-13 23:46:51 - kaw393939: ignoring build directory
+2023-02-13 23:43:25 - kaw393939: Update package.json
+2023-02-13 23:37:47 - kaw393939: Merge pull request #50 from NJIT-WIS/40-add-puppeteer-and-jest
+
+fixing github actions
+2023-02-13 23:37:40 - kaw393939: Merge branch 'master' into 40-add-puppeteer-and-jest
+2023-02-13 23:33:54 - kaw393939: fixing github actions
+2023-02-13 23:26:27 - kaw393939: Update test_app.py
+2023-02-13 23:23:06 - kaw393939: Update package.json
+2023-02-13 23:21:42 - kaw393939: Update publish.yml
+2023-02-13 23:17:43 - kaw393939: Update publish.yml
+2023-02-13 23:14:52 - kaw393939: Merge pull request #49 from NJIT-WIS/40-add-puppeteer-and-jest
+
+40 add puppeteer and jest
+2023-02-13 23:13:59 - kaw393939: added playwright test
+2023-02-13 23:05:22 - kaw393939: fixing github action error
+2023-02-13 23:02:26 - kaw393939: Merge pull request #48 from NJIT-WIS/40-add-puppeteer-and-jest
+
+fixing github action error
+2023-02-13 22:59:51 - kaw393939: fixing github action error
+2023-02-13 22:54:47 - kaw393939: Merge pull request #47 from NJIT-WIS/40-add-puppeteer-and-jest
+
+closes #40 replaced jest and puppeteer with playwright and reorganize…
+2023-02-13 22:52:51 - kaw393939: closes #40 replaced jest and puppeteer with playwright and reorganized some files
+2023-02-13 19:41:30 - kaw393939: Merge pull request #39 from NJIT-WIS/38-add-html5-boilerplate-as-the-starting-template-for-the-project
+
+added boilerplate closes #38
+2023-02-13 19:25:36 - kaw393939: added boilerplate
+2023-02-13 18:34:55 - kaw393939: Merge pull request #37 from NJIT-WIS/36-make-the-readme-more-clear-that-there-are-two-roles
+
+Closes #36
+2023-02-13 18:32:48 - kaw393939: Closes #36
+
+I updated the first paragraph; however, more instructions will need to be updated to make it more clear.
+2023-02-10 02:06:05 - kaw393939: Update readme.md
+2023-02-10 01:10:49 - kaw393939: updated requirements to at git library
+2023-02-10 01:06:33 - kaw393939: added requirements.txt
+2023-02-10 01:04:27 - kaw393939: added updated readme assignment instructions
+2023-02-10 00:58:35 - kaw393939: added updated readme assignment instructions
+2023-02-09 21:44:05 - kaw393939: Merge pull request #5 from NJIT-WIS/menuitems
+
+added njit
+2023-02-09 21:43:28 - kaw393939: added njit
+2023-02-09 21:40:38 - kaw393939: Merge pull request #4 from NJIT-WIS/websitetitle
+
+Websitetitle
+2023-02-09 21:36:52 - kaw393939: FIX: removed duplicate container name on watchtower
+2023-02-09 21:35:53 - kaw393939: added menu title
+2023-02-09 20:45:49 - kaw393939: Merge pull request #3 from NJIT-WIS/mainmenu
+
+added main menu
+2023-02-09 20:42:48 - kaw393939: added main menu
+2023-02-09 20:19:28 - kaw393939: added some improved instructions
+2023-02-09 20:17:48 - kaw393939: removed watchtower labels from developent
+2023-02-09 20:03:40 - kaw393939: fixes
+2023-02-09 19:32:00 - kaw393939: added install instructions
+2023-02-09 19:29:18 - kaw393939: updated readme with install instructions
+2023-02-09 18:53:21 - kaw393939: fixed it up
+2023-02-09 18:51:10 - kaw393939: updated readme and welcome message on index
+2023-02-09 18:45:31 - kaw393939: some fixes and readme and a license
+2023-02-09 17:41:01 - kaw393939: triggered a change
+2023-02-09 17:23:36 - kaw393939: fixed docker file and added readme
+2023-02-09 17:17:12 - kaw393939: Create README.md
+2023-02-09 16:35:12 - kaw393939: make it work now
+2023-02-09 16:30:08 - kaw393939: setup mywebclass.org
+2023-02-08 22:57:58 - kaw393939: added bootrap icons
+2023-02-08 22:37:44 - kaw393939: cleanup'
+2023-02-08 22:32:34 - kaw393939: testing building
+2023-02-08 22:31:20 - kaw393939: added webpack
+2023-02-08 22:30:10 - kaw393939: testing building
+2023-02-08 22:28:47 - kaw393939: testing building
+2023-02-08 22:25:53 - kaw393939: testing building
+2023-02-08 22:22:23 - kaw393939: testing building
+2023-02-08 22:18:09 - kaw393939: testing building
+2023-02-08 22:15:59 - kaw393939: added bootstrap and webpack
+2023-02-08 22:15:09 - kaw393939: updated for node
+2023-02-08 16:05:19 - kaw393939: updated site homepage title and text
+2023-02-08 15:25:08 - kaw393939: Merge pull request #1 from NJIT-WIS/itshot
+
+changed text to its hot
+2023-02-08 15:22:02 - kaw393939: changed text to its hot
+2023-02-08 15:14:09 - kaw393939: updated homepage
+2023-02-08 00:51:05 - kaw393939: updated index text
+2023-02-08 00:50:37 - kaw393939: added replicas
+2023-02-08 00:50:03 - kaw393939: updated gitigore
+2023-02-08 00:20:25 - kaw393939: changed text
+2023-02-08 00:17:47 - kaw393939: changed website
+2023-02-08 00:11:48 - kaw393939: added tests
+2023-02-08 00:10:14 - kaw393939: added test file
+2023-02-08 00:07:45 - kaw393939: added tests
+2023-02-08 00:06:04 - kaw393939: added tests
+2023-02-08 00:00:48 - kaw393939: added workflows
+2023-02-07 23:57:22 - kaw393939: first commit
